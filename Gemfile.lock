@@ -4,7 +4,7 @@ PATH
     carrierwave_encrypter_decrypter (0.0.6)
       carrierwave
       logger
-      rails (~> 5.1, >= 5.1.4)
+      rails
 
 GEM
   remote: https://rubygems.org/
